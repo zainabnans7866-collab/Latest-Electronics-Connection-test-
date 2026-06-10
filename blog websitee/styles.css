@@ -1,0 +1,27 @@
+
+body{
+    background-color: beige;
+    font-family: Arial, sans-serif;
+}
+h1{
+    background-color: #b0228a;
+    color: white;
+    text-align: center;
+    margin: 0;
+    padding-top: 20px;
+}
+
+p{
+    background-color: #b0228a;
+    color: white;
+    text-align: center;
+    margin: 0;
+    padding-bottom: 20px;
+}
+
+a{
+    text-decoration: none;
+    margin: 150px;
+    color: rgb(177, 92, 142);
+    text-align: left;
+}
